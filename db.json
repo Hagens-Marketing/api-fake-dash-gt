@@ -11,70 +11,17 @@
       "leadership": "Gideon Blair",
       "level": "Júnior",
       "workModel": "Remoto"
-    },
-    {
-      "name": "Roger Kenter",
-      "id": "2",
-      "email": "rogerk@hagens.com.br",
-      "image": "",
-      "status": "Em distrato",
-      "approvals": 1,
-      "position": "Back-end Developer",
-      "leadership": "Maxwell Curtis",
-      "level": "Pleno",
-      "workModel": "Remoto"
-    },
-    {
-      "name": "Cooper Carder",
-      "id": "3",
-      "email": "cooperc@hagens.com.br",
-      "image": "",
-      "status": "Ativo",
-      "approvals": 1,
-      "position": "Coordenador de Mídia",
-      "leadership": "Gideon Blair",
-      "level": "Coordenação",
-      "workModel": "Híbrido"
-    },
-    {
-      "name": "Allison Westervelt",
-      "id": "4",
-      "email": "allison@hagens.com.br",
-      "image": "",
-      "status": "Em distrato",
-      "approvals": 0,
-      "position": "Diretor(a) de Arte",
-      "leadership": "Gideon Blair",
-      "level": "Sênior",
-      "workModel": "Híbrido"
-    },
-    {
-      "name": "Angel Aminoff",
-      "id": "5",
-      "email": "angel@hagens.com.br",
-      "image": "",
-      "status": "Ativo",
-      "approvals": 0,
-      "position": "Executivo(a) de Contas",
-      "leadership": "Gideon Blair",
-      "level": "Pleno",
-      "workModel": "Remoto"
     }
   ],
   "positions": [
-    "Analista de BI",
-    "Analista de CRM",
-    "Analista de Dados"
+    "Analista de BI"
   ],
   "leadership": [
-    "Gideon Blair",
-    "Rowan Vargas",
-    "Maxwell Curtis"
+    "Gideon Blair"
   ],
   "level": [
     "Júnior",
-    "Júnior 1",
-    "Júnior 2"
+    "Júnior 1"
   ],
   "work": [
     "Híbrido",
